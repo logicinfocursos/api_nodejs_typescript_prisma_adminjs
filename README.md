@@ -221,6 +221,7 @@ API: http://localhost:3000/products
 AdminJS: http://localhost:3000/admin
 Isso configura uma API básica em Node.js com TypeScript usando Prisma e SQLite, além de integrar o AdminJS como backend para gerenciar a tabela products.
 
+<pre>
 shop-api/
 ├── dist/
 │   └── (arquivos compilados)
@@ -231,3 +232,4 @@ shop-api/
 │   └── app.ts
 ├── tsconfig.json
 └── package.json
+</pre>
